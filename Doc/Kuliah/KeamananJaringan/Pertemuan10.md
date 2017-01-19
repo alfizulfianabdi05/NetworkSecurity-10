@@ -1,0 +1,1 @@
+Conclusion RADIUS it easier for administrators to remotely access point or a network. Radius applied in networks with client-server model. Radius is a security mechanism to handle the authentication and authorization of user connections made.
